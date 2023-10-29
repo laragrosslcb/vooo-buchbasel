@@ -770,7 +770,7 @@
                         {
                          "name":"policy",
                          "type":"string",
-                         "value":"camera; microphone; fullscreen"
+                         "value":"fullscreen"
                         }],
                  "rotation":0,
                  "type":"area",
