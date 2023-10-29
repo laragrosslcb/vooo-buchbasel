@@ -766,6 +766,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/us02web.zoom.us\/j\/86311881678?pwd=WWcwRnRhdUIwcmFSR0l6RmtTTVlmZz09"
+                        }, 
+                        {
+                         "name":"policy",
+                         "type":"string",
+                         "value":"camera; microphone"
                         }],
                  "rotation":0,
                  "type":"area",
