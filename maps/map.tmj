@@ -619,40 +619,6 @@
                  "y":2781.36413333333
                 }, 
                 {
-                 "height":101.272,
-                 "id":44,
-                 "name":"whiteboard",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/app.sketchtogether.com\/s\/sketch\/QIXWT.1.1\/"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":228.827,
-                 "x":2643.5865,
-                 "y":2606.69733333333
-                }, 
-                {
-                 "height":69.2719999999999,
-                 "id":45,
-                 "name":"scratchpad",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/docs.google.com\/document\/d\/1wf8YUMwQK-yAm89TVXRIRfdmkc1EDaSijTZv4nPAaJU\/edit?usp=sharing"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":255.493666666666,
-                 "x":2657.5865,
-                 "y":2885.364
-                }, 
-                {
                  "height":0,
                  "id":48,
                  "name":"",
@@ -695,23 +661,6 @@
                  "width":550.648587991843,
                  "x":1584.85958623898,
                  "y":3774.36410109979
-                }, 
-                {
-                 "height":155.39,
-                 "id":54,
-                 "name":"miji-ih-hara-shin",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/preview.vooo.space\/tables\/miji-ih-hara-shin"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":268.061666666666,
-                 "x":2478.63583333333,
-                 "y":2711.63833333333
                 }, 
                 {
                  "height":616.181666666667,
@@ -807,6 +756,23 @@
                  "width":480.667,
                  "x":1687.6665,
                  "y":451.606060606061
+                }, 
+                {
+                 "height":358.272,
+                 "id":69,
+                 "name":"zoom",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/us02web.zoom.us\/j\/86311881678?pwd=WWcwRnRhdUIwcmFSR0l6RmtTTVlmZz09"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":472.494,
+                 "x":2421.253,
+                 "y":2587.364
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1899,7 +1865,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":69,
+ "nextobjectid":70,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1928,7 +1894,7 @@
          "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
