@@ -758,26 +758,55 @@
                  "y":451.606060606061
                 }, 
                 {
-                 "height":358.272,
-                 "id":69,
-                 "name":"zoom",
+                 "height":74.4102272097539,
+                 "id":70,
+                 "name":"ANN GASPE",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/us02web.zoom.us\/j\/86311881678?pwd=WWcwRnRhdUIwcmFSR0l6RmtTTVlmZz09"
-                        }, 
-                        {
-                         "name":"policy",
-                         "type":"string",
-                         "value":"fullscreen"
+                         "value":"https:\/\/docs.google.com\/document\/d\/11hv-Ny3rK9MZtz-gyWXrVzXuJlQBKmQNwm1FyfrM5H0\/edit?usp=sharing"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":472.494,
-                 "x":2421.253,
-                 "y":2587.364
+                 "width":79.8111817678023,
+                 "x":2463.55797243004,
+                 "y":2805.68765447492
+                }, 
+                {
+                 "height":74.4102,
+                 "id":71,
+                 "name":"MAUD MARIQUE",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/1qIyuupdhGtgwXD-r5U1MjM03MnsR9__to3XT2g3uuhs\/edit?usp=sharing"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":79.8112,
+                 "x":2649.20495694098,
+                 "y":2804.30224275423
+                }, 
+                {
+                 "height":74.4102,
+                 "id":72,
+                 "name":"SARAH-LOUISE PELLETIER-MORIN",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/document\/d\/1WmxGTReggF4XsrG2cM6ov23yYzc3RJn9sMi2PfGK3_c\/edit?usp=sharing"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":79.8112,
+                 "x":2717.09079789415,
+                 "y":2705.9370446384
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1870,7 +1899,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":70,
+ "nextobjectid":73,
  "orientation":"orthogonal",
  "properties":[
         {
